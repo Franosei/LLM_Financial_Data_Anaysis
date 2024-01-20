@@ -1,5 +1,0 @@
-streamlit
-pandas
-subprocess
-PIL
-openai
